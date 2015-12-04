@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.homepage    = "https://github.com/haawa799/StrokeDrawingView/tree/master"
   s.name        = "StrokeDrawingView"
-  s.version     = "0.1.0"
+  s.version     = "v0.1.0"
   s.summary     = "StrokeDrawingView allows you to display stroke-by-stroke drawing. All you need to provide is and array of UIBezierPath."
   s.license     = { :type => "MIT" }
   s.authors     = { "Andriy Kharchyshyn" => "haawaplus@gmail.com" }
