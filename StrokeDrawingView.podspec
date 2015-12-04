@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name        = "StrokeDrawingView"
   s.version     = "0.1.0"
-  s.summary     = "View which takes array of UIBezierPath as an input. And allows you to display them as stroke-by-stroke drawing."
+  s.summary     = "StrokeDrawingView allows you to display stroke-by-stroke drawing. All you need to provide is and array of UIBezierPath."
   s.license     = { :type => "MIT" }
   s.authors     = { "Andriy Kharchyshyn" => "haawaplus@gmail.com" }
 
