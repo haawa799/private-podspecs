@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
   s.ios.deployment_target = "8.0"
-  s.source   = { :git => "https://github.com/haawa799/StrokeDrawingView.git", :tag => "0.1.0"}
+  s.source   = { :git => "https://github.com/haawa799/StrokeDrawingView.git", :tag => "master"}
   s.source_files = 'Pod/Classes/**/*'
 end
